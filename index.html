@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>AoE2 – Civilisation Timelines</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -39,8 +40,10 @@
     </div>
 
     <!-- Slider and Display -->
-    <div id="year-slider"></div>
-    <div id="year-display">Year: 0 AD</div>
+    <div id="time-control">
+      <div id="year-display">Year: 0 AD</div>
+      <div id="year-slider"></div>
+    </div>
 
     <!-- Grid Toggle -->
     <label><input type="checkbox" id="toggle-grid"> Show Grid</label>
