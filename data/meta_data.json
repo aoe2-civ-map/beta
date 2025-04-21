@@ -1,0 +1,96 @@
+{
+  "symbols": {
+    "house": {
+      "iconUrl": "icons/house.svg",
+      "iconSize": [20, 20],
+      "iconAnchor": [10, 10]
+    },
+    "danger": {
+      "iconUrl": "icons/swords.svg",
+      "iconSize": [36, 36],
+      "iconAnchor": [18, 18]
+    },
+    "emblem": {
+      "iconUrl": "emblems/",
+      "iconSize": [48, 48],
+      "iconAnchor": [24, 24]
+    }
+  },
+
+  "styles": {
+    "territoryBlur": 5
+  },
+
+  "civilisations": [
+    {
+      "name": "vikings",
+      "color": "#66d2ea",
+      "file": "vikings.geojson"
+    },
+    {
+      "name": "byzantines",
+      "color": "#ffa600",
+      "file": "byzantines.geojson"
+    },
+    {
+      "name": "celts",
+      "color": "#007806",
+      "file": "celts.geojson"
+    },
+    {
+      "name": "britons",
+      "color": "#97000a",
+      "file": "britons.geojson"
+    },
+    {
+      "name": "turks",
+      "color": "#08a000",
+      "file": "turks.geojson"
+    },
+    {
+      "name": "teutons",
+      "color": "#d5cb10",
+      "file": "teutons.geojson"
+    },
+    {
+      "name": "chinese",
+      "color": "#b10c06",
+      "file": "chinese.geojson"
+    },
+    {
+      "name": "saracens",
+      "color": "#796121",
+      "file": "saracens.geojson"
+    },
+    {
+      "name": "persians",
+      "color": "#a1149a",
+      "file": "persians.geojson"
+    },
+    {
+      "name": "mongols",
+      "color": "#d6a41a",
+      "file": "mongols.geojson"
+    },
+    {
+      "name": "koreans",
+      "color": "#0f00b6",
+      "file": "koreans.geojson"
+    },
+    {
+      "name": "japanese",
+      "color": "#ff8df9",
+      "file": "japanese.geojson"
+    },
+    {
+      "name": "goths",
+      "color": "#00dfb6",
+      "file": "goths.geojson"
+    },
+    {
+      "name": "franks",
+      "color": "#000099",
+      "file": "franks.geojson"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+[
+    {
+        "ID": 1,
+        "Civilization": "Britons",
+        "Latitude": 50.6995,
+        "Longitude": -0.0409
+    },
+    {
+        "ID": 2,
+        "Civilization": "Byzantines",
+        "Latitude": 41.0079,
+        "Longitude": 29.1354
+    },
+    {
+        "ID": 3,
+        "Civilization": "Celts",
+        "Latitude": 52.4131,
+        "Longitude": -7.1417
+    },
+    {
+        "ID": 4,
+        "Civilization": "Chinese",
+        "Latitude": 39.8778,
+        "Longitude": 116.5921
+    },
+    {
+        "ID": 5,
+        "Civilization": "Franks",
+        "Latitude": 48.2917,
+        "Longitude": 1.3661
+    },
+    {
+        "ID": 6,
+        "Civilization": "Goths",
+        "Latitude": 44.3837,
+        "Longitude": 12.518
+    },
+    {
+        "ID": 7,
+        "Civilization": "Japanese",
+        "Latitude": 34.3757,
+        "Longitude": 135.7577
+    },
+    {
+        "ID": 8,
+        "Civilization": "Mongols",
+        "Latitude": 45.4734,
+        "Longitude": 105.0172
+    },
+    {
+        "ID": 9,
+        "Civilization": "Persians",
+        "Latitude": 32.4056,
+        "Longitude": 46.149
+    },
+    {
+        "ID": 10,
+        "Civilization": "Saracens",
+        "Latitude": 34.6767,
+        "Longitude": 45.376
+    },
+    {
+        "ID": 11,
+        "Civilization": "Teutons",
+        "Latitude": 50.1991,
+        "Longitude": 8.5068
+    },
+    {
+        "ID": 12,
+        "Civilization": "Turks",
+        "Latitude": 41.4192,
+        "Longitude": 27.1108
+    },
+    {
+        "ID": 13,
+        "Civilization": "Vikings",
+        "Latitude": 60.8967,
+        "Longitude": 11.4596
+    },
+    {
+        "ID": 14,
+        "Civilization": "Aztecs",
+        "Latitude": 19.1208,
+        "Longitude": -97.6682
+    },
+    {
+        "ID": 15,
+        "Civilization": "Huns",
+        "Latitude": 41.9375,
+        "Longitude": 12.3009
+    },
+    {
+        "ID": 16,
+        "Civilization": "Koreans",
+        "Latitude": 35.7738,
+        "Longitude": 128.8708
+    },
+    {
+        "ID": 17,
+        "Civilization": "Maya",
+        "Latitude": 16.7402,
+        "Longitude": -89.1396
+    },
+    {
+        "ID": 18,
+        "Civilization": "Spanish",
+        "Latitude": 37.5446,
+        "Longitude": -5.1291
+    },
+    {
+        "ID": 19,
+        "Civilization": "Inca",
+        "Latitude": 0.0,
+        "Longitude": -70.7518
+    },
+    {
+        "ID": 20,
+        "Civilization": "Italians",
+        "Latitude": 44.3054,
+        "Longitude": 9.6467
+    },
+    {
+        "ID": 21,
+        "Civilization": "Magyars",
+        "Latitude": 45.8726,
+        "Longitude": 23.6548
+    },
+    {
+        "ID": 22,
+        "Civilization": "Slavs",
+        "Latitude": 62.0635,
+        "Longitude": 35.6668
+    },
+    {
+        "ID": 23,
+        "Civilization": "Berbers",
+        "Latitude": 34.0246,
+        "Longitude": -6.2058
+    },
+    {
+        "ID": 24,
+        "Civilization": "Ethiopians",
+        "Latitude": 12.3057,
+        "Longitude": 38.6774
+    },
+    {
+        "ID": 25,
+        "Civilization": "Malians",
+        "Latitude": 13.7375,
+        "Longitude": -3.9788
+    },
+    {
+        "ID": 26,
+        "Civilization": "Portuguese",
+        "Latitude": 38.862,
+        "Longitude": -8.5575
+    },
+    {
+        "ID": 27,
+        "Civilization": "Burmese",
+        "Latitude": 22.2398,
+        "Longitude": 95.1037
+    },
+    {
+        "ID": 28,
+        "Civilization": "Khmer",
+        "Latitude": 13.3472,
+        "Longitude": 104.0503
+    },
+    {
+        "ID": 29,
+        "Civilization": "Malay",
+        "Latitude": 0.0,
+        "Longitude": 110.1655
+    },
+    {
+        "ID": 30,
+        "Civilization": "Vietnamese",
+        "Latitude": 21.3803,
+        "Longitude": 105.9607
+    },
+    {
+        "ID": 31,
+        "Civilization": "Bulgarians",
+        "Latitude": 43.1312,
+        "Longitude": 27.6247
+    },
+    {
+        "ID": 32,
+        "Civilization": "Cumans",
+        "Latitude": 47.5084,
+        "Longitude": 42.2061
+    },
+    {
+        "ID": 33,
+        "Civilization": "Lithuanians",
+        "Latitude": 54.2653,
+        "Longitude": 25.1777
+    },
+    {
+        "ID": 34,
+        "Civilization": "Tatars",
+        "Latitude": 39.9904,
+        "Longitude": 66.8416
+    },
+    {
+        "ID": 35,
+        "Civilization": "Burgundians",
+        "Latitude": 50.5314,
+        "Longitude": 5.4273
+    },
+    {
+        "ID": 36,
+        "Civilization": "Sicilians",
+        "Latitude": 37.9716,
+        "Longitude": 13.8785
+    },
+    {
+        "ID": 37,
+        "Civilization": "Bohemians",
+        "Latitude": 49.521,
+        "Longitude": 15.4558
+    },
+    {
+        "ID": 38,
+        "Civilization": "Poles",
+        "Latitude": 49.5607,
+        "Longitude": 20.0647
+    },
+    {
+        "ID": 39,
+        "Civilization": "Bengalis",
+        "Latitude": 25.4435,
+        "Longitude": 88.9119
+    },
+    {
+        "ID": 40,
+        "Civilization": "Dravidians",
+        "Latitude": 11.1,
+        "Longitude": 79.121
+    },
+    {
+        "ID": 41,
+        "Civilization": "Gurjaras",
+        "Latitude": 21.2277,
+        "Longitude": 70.598
+    },
+    {
+        "ID": 42,
+        "Civilization": "Hindustanis",
+        "Latitude": 28.5972,
+        "Longitude": 78.1818
+    },
+    {
+        "ID": 43,
+        "Civilization": "Romans",
+        "Latitude": 41.9864,
+        "Longitude": 12.8033
+    },
+    {
+        "ID": 44,
+        "Civilization": "Armenians",
+        "Latitude": 39.9904,
+        "Longitude": 44.1492
+    },
+    {
+        "ID": 45,
+        "Civilization": "Georgians",
+        "Latitude": 41.9247,
+        "Longitude": 44.6208
+    }
+]

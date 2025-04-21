@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 64 64" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="swords" vectornator:layerName="swords">
+<g opacity="1" vectornator:layerName="Group 1">
+<g opacity="1" vectornator:layerName="longsword">
+<path d="M21.1711 35.0913L23.9995 37.9198L44.3449 17.9132L46.8483 12.2425L40.8954 14.4574L21.1711 35.0913Z" fill="#e0e0e0" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" vectornator:layerName="path"/>
+<path d="M15.7308 32.0463L27.0445 43.36" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" vectornator:layerName="path"/>
+<path d="M20.6806 36.9961L22.0948 38.4103C22.4853 38.8008 22.4853 39.434 22.0948 39.8245L15.0237 46.8956C14.6332 47.2861 14 47.2861 13.6095 46.8956L12.1953 45.4814C11.8048 45.0908 11.8048 44.4577 12.1953 44.0671L19.2663 36.9961C19.6569 36.6056 20.29 36.6056 20.6806 36.9961Z" fill="#8b4513" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" vectornator:layerName="rect"/>
+<path d="M10.074 46.1885C10.855 45.4074 12.1213 45.4074 12.9024 46.1885C13.6834 46.9695 13.6834 48.2358 12.9024 49.0169C12.1213 49.7979 10.855 49.7979 10.074 49.0169C9.29291 48.2358 9.29291 46.9695 10.074 46.1885Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" vectornator:layerName="circle"/>
+</g>
+<g opacity="1" vectornator:layerName="saber">
+<path d="M44.0785 39.0191C34.7004 29.4247 25.6017 21.4412 23.5846 9.99556C17.9115 22.5969 32.8196 35.3575 41.2628 41.9772L44.0785 39.0191Z" fill="#e0e0e0" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" vectornator:layerName="path"/>
+<path d="M45.2158 36.7311L45.2777 38.6028L40.3164 43.5586C39.1708 45.0151 40.8139 46.1049 40.8139 46.1049" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" vectornator:layerName="path"/>
+<path d="M47.3937 42.0842C53.0743 45.8195 56.8813 51.4524 58.8146 58.9828" fill="none" opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" vectornator:layerName="path"/>
+<path d="M42.4396 41.4084L43.8448 39.9853C44.2328 39.5923 44.866 39.5883 45.259 39.9764L52.3747 47.0025C52.7677 47.3906 52.7717 48.0237 52.3836 48.4167L50.9784 49.8398C50.5903 50.2328 49.9572 50.2368 49.5642 49.8488L42.4485 42.8226C42.0555 42.4346 42.0515 41.8014 42.4396 41.4084Z" fill="#8b4513" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" vectornator:layerName="rect"/>
+<path d="M50.2758 50.5514C49.4898 49.7753 50.4617 49.4766 51.2378 48.6906C52.0139 47.9047 52.3003 46.929 53.0862 47.7051C53.8722 48.4812 53.2191 49.0947 52.443 49.8807C51.6669 50.6666 51.0618 51.3275 50.2758 50.5514Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" vectornator:layerName="circle"/>
+</g>
+</g>
+</g>
+</svg>

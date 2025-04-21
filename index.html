@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AoE2 – Civilisation Timelines</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nouislider@15.7.0/dist/nouislider.min.css" />
+</head>
+<body>
+  <div id="map"></div>
+
+  <div id="timeline-container">
+    <!-- Controls: Play/Pause and Speed -->
+    <div id="controls">
+      <button id="play-pause">Play</button>
+      <label for="speed-select">Speed:</label>
+      <select id="speed-select">
+        <option value="50">Blazing</option>
+        <option value="100">Very Fast</option>
+        <option value="200" selected>Fast</option>
+        <option value="500">Medium</option>
+        <option value="1000">Slow</option>
+      </select>
+
+      <label for="basemap-select">Basemap:</label>
+      <select id="basemap-select">
+        <option value="osm">OpenStreets</option>
+        <option value="otopo">OpenTopo</option>
+        <option value="topo">ArcGIS Topological</option>
+        <!-- <option value="stamenTerrain">Stamen Terrain</option> -->
+        <!-- <option value="stamenTerrainLabels">Stamen Terrain Label</option> -->
+        <!-- <option value="stamenTerrainBg">Stamen Terrain BG</option> -->
+        <!-- <option value="hillshade">ArcGIS Hillshade</option> -->
+        <option value="terrain" selected>ArcGIS Terrain</option>
+        <option value="imagery">ArcGIS Imagery</option>
+        <option value="natgeo">ArcGIS NatGeo</option>
+      </select>
+    </div>
+
+    <!-- Slider and Display -->
+    <div id="year-slider"></div>
+    <div id="year-display">Year: 0 AD</div>
+
+    <!-- Grid Toggle -->
+    <label><input type="checkbox" id="toggle-grid"> Show Grid</label>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/nouislider@15.7.0/dist/nouislider.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
