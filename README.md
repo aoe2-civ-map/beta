@@ -8,19 +8,25 @@ Beta version of a world map showing the territories of civilisations of Age of E
 see here: [https://aoe2-civ-map.github.io/beta/](https://aoe2-civ-map.github.io/beta/)
 
 ## Todo:
-- [x] Age of Kings          (Classic)
-- [ ] The Conquerors        (Classic)
-- [ ] The Forgotten         (HD)
-- [ ] The African Kingdoms  (HD)
-- [ ] Rise of the Rajas     (HD)
-- [ ] The Last Khans        (DE)
-- [ ] Lords of the West     (DE)
-- [ ] Dawn of the Dukes     (DE)
-- [ ] Dynasties of India    (DE)
-- [ ] Return of Rome        (DE)
-- [ ] The Mountain Royals   (DE)
-- [ ] Battle for Greece     (DE)
-- [ ] The Three Kingdoms    (DE)
+- [x] First Prototype 🥳
+- [ ] Improve code and data structuring after feedback
+- [ ] Work out way how to depict influence areas
+- [ ] First step for all territories
+    - [x] Age of Kings          (Classic)
+    - [ ] The Conquerors        (Classic)
+    - [ ] The Forgotten         (HD)
+    - [ ] The African Kingdoms  (HD)
+    - [ ] Rise of the Rajas     (HD)
+    - [ ] The Last Khans        (DE)
+    - [ ] Lords of the West     (DE)
+    - [ ] Dawn of the Dukes     (DE)
+    - [ ] Dynasties of India    (DE)
+    - [ ] Return of Rome        (DE)
+    - [ ] The Mountain Royals   (DE)
+    - [ ] Battle for Greece     (DE)
+    - [ ] The Three Kingdoms    (DE)
+- [ ] Add scenario / campaign symbols (?)
+- [ ] future ... expand to ancient times
 
 *All help is welcome!*
 
