@@ -24,7 +24,7 @@
   "civilisations": [
     {
       "name": "vikings",
-      "color": "#66d2ea",
+      "color": "#ff0000",
       "file": "vikings.geojson"
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "name": "britons",
-      "color": "#97000a",
+      "color": "#8d0017",
       "file": "britons.geojson"
     },
     {
