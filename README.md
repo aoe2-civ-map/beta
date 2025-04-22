@@ -1,8 +1,11 @@
 # beta
 Beta version of a world map showing the territories of civilisations of Age of Empires 2.
 
-# Age of Empires 2 -- Civilisation Map
-<sup>(beta)</sup>
+# Age of Empires 2 -- Civilisation Map<sup>(beta)</sup>
+
+<img src="examples/example.png" alt="example-view" width="40%"/>
+
+see here: [https://aoe2-civ-map.github.io/beta/](https://aoe2-civ-map.github.io/beta/)
 
 ## Todo:
 - [x] Age of Kings          (Classic)
